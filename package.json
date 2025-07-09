@@ -1,0 +1,35 @@
+{
+  "name": "apathy-theme",
+  "displayName": "Apathy Theme",
+  "description": "A dark, sophisticated color theme with purple/black backgrounds and vibrant neon-like syntax highlighting.",
+  "version": "1.0.0",
+  "publisher": "coopermaruyama",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "purple",
+    "neon",
+    "syntax",
+    "color-theme",
+    "apathy"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apathy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Apathy-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coopermaruyama/apathy-theme"
+  },
+  "license": "MIT"
+}

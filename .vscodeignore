@@ -1,0 +1,12 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+atom-theme/**
+demo.*
+*.md
+!README.md
+node_modules/**
+src/**
+test/**
+*.vsix

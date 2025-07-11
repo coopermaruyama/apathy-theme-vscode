@@ -10,3 +10,4 @@ node_modules/**
 src/**
 test/**
 *.vsix
+.mypy_cache/

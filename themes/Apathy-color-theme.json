@@ -568,6 +568,16 @@
 			}
 		},
 		{
+			"name": "HTML attribute key",
+			"scope": [
+				"meta.tag.attributes keyword.operator.assignment",
+				"meta.tag.attributes entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#8a7b5c"
+			}
+		},
+		{
 			"name": "JSON Key",
 			"scope": [
 				"meta.structure.dictionary.key.json",
@@ -609,7 +619,8 @@
 				// "foreground": "#eb849a"
 				// "foreground": "#B5BFBF"
 				// "foreground": "#9be4e1"
-				"foreground": "#e49bb2"
+				// "foreground": "#e49bb2"
+				"foreground": "#a4a1b0"
 			}
 		},
 		{
@@ -619,7 +630,8 @@
 				"meta.function.ts entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ecdd93",
+				// "foreground": "#ecdd93",
+				"foreground": "#95d4ca",
 				"fontStyle": ""
 			}
 		},
@@ -707,9 +719,19 @@
 				"source.ts meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#727179"
+				"foreground": "#8a7b5c"
 			}
 		},
+		// {
+		// 	"name": "JavaScript - Object Properties (literal) function",
+		// 	"scope": [
+		// 		"source.js meta.object-literal.key entity.name.function",
+		// 		"source.ts meta.object-literal.key entity.name.function"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#8a7b5c"
+		// 	}
+		// },
 		{
 			"name": "JavaScript - Constants",
 			"scope": [

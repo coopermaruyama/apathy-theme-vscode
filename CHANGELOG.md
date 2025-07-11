@@ -2,6 +2,10 @@
 
 All notable changes to the "Apathy Theme" extension will be documented in this file.
 
+## [1.2.0] - 2025-07-11
+
+- Improve JavaScript/TypeScript function and variable highlighting
+
 ## [1.0.0] - 2025-07-01
 
 ### Added

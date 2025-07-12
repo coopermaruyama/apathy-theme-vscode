@@ -5,15 +5,13 @@ A sophisticated dark color theme ported from the original Atom version, featurin
 
 ## 📸 Screenshots
 
-<img width="489" height="615" style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
-<img width="423" style="display:inline;float:right;" alt="Screenshot 2025-07-09 at 1 21 58 PM" src="https://github.com/user-attachments/assets/9e08849d-6b9e-4afe-9331-7cbe16cb468d" />
-<img width="675" style="display:inline;float:left;" alt="Screenshot 2025-07-09 at 12 08 22 PM" src="https://github.com/user-attachments/assets/d4584f4c-5686-42eb-b201-805aa85cc0a4" />
 
+<img width="1225" height="939" alt="Screenshot 2025-07-11 at 6 08 22 PM" src="https://github.com/user-attachments/assets/3445ffd3-771d-4460-a2e3-1f3def45dfc2" />
+<img width="1060" height="876" alt="Screenshot 2025-07-11 at 9 23 08 PM" src="https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3" />
 
-<img width="1048" alt="Screenshot 2025-07-09 at 2 22 07 PM" src="https://github.com/user-attachments/assets/3b738903-e4c9-4c78-8847-b70157195590" />
+<img width="459"  style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
 
-
-<img width="1103" alt="Screenshot 2025-07-09 at 1 21 14 PM" src="https://github.com/user-attachments/assets/869023a0-e555-4192-b5e1-097b23593c8c" />
+<img width="509" height="452" alt="Screenshot 2025-07-09 at 12 08 22 PM" src="https://github.com/user-attachments/assets/3c31738e-aec3-450a-9095-fc58f64638ae" />
 
 
 ## ✨ Features

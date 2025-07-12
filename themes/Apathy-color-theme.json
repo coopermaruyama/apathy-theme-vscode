@@ -310,6 +310,27 @@
 			}
 		},
 		{
+			"name": "Keyword - export",
+			"scope": [
+				"keyword.control.export"
+			],
+			"settings": {
+				"foreground": "#91aac0",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Keyword - 'return', 'function'",
+			"scope": [
+				"keyword.control.flow",
+				"storage.type.function"
+			],
+			"settings": {
+				"foreground": "#7d7a8b",
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "Keyword - import",
 			"scope": [
 				// "keyword.control.import",
@@ -609,20 +630,20 @@
 		// 		"foreground": "#B5BFBF"
 		// 	}
 		// },
-		{
-			"name": "Function Declaration",
-			"scope": [
-				"storage.type.function",
-				"storage.type.function"
-			],
-			"settings": {
-				// "foreground": "#eb849a"
-				// "foreground": "#B5BFBF"
-				// "foreground": "#9be4e1"
-				// "foreground": "#e49bb2"
-				"foreground": "#a4a1b0"
-			}
-		},
+		// {
+		// 	"name": "Function Declaration",
+		// 	"scope": [
+		// 		"storage.type.function",
+		// 		"storage.type.function"
+		// 	],
+		// 	"settings": {
+		// 		// "foreground": "#eb849a"
+		// 		// "foreground": "#B5BFBF"
+		// 		// "foreground": "#9be4e1"
+		// 		// "foreground": "#e49bb2"
+		// 		"foreground": "#a4a1b0"
+		// 	}
+		// },
 		{
 			"name": "JavaScript - Function Name",
 			"scope": [

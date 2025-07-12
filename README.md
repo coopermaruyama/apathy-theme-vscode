@@ -9,9 +9,9 @@ A sophisticated dark color theme ported from the original Atom version, featurin
 <img width="1225" height="939" alt="Screenshot 2025-07-11 at 6 08 22 PM" src="https://github.com/user-attachments/assets/3445ffd3-771d-4460-a2e3-1f3def45dfc2" />
 <img width="1060" height="876" alt="Screenshot 2025-07-11 at 9 23 08 PM" src="https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3" />
 
-<img width="459"  style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
+<img width="429"  style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
 
-<img width="509" height="452" alt="Screenshot 2025-07-09 at 12 08 22 PM" src="https://github.com/user-attachments/assets/3c31738e-aec3-450a-9095-fc58f64638ae" />
+<img width="450" style="display:inline;float:left;" alt="Screenshot 2025-07-09 at 12 08 22 PM" src="https://github.com/user-attachments/assets/3c31738e-aec3-450a-9095-fc58f64638ae" />
 
 
 ## ✨ Features

@@ -167,7 +167,7 @@ def safe_color_conversion(color_value: str) -> Optional[tuple]:
         return None
     finally:
         print("Color conversion attempt completed")
-
+        return None
 
 # Main execution
 if __name__ == "__main__":

@@ -6,8 +6,8 @@ A sophisticated dark color theme ported from the original Atom version, featurin
 ## 📸 Screenshots
 
 
-<img width="1066" height="817" alt="Screenshot 2025-07-11 at 6 08 22 PM" src="https://github.com/user-attachments/assets/3445ffd3-771d-4460-a2e3-1f3def45dfc2" />
-<img width="1159" height="958" alt="Screenshot 2025-07-11 at 9 23 08 PM" src="https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3" />
+<img alt="Screenshot 2025-07-11 at 6 08 22 PM" src="https://github.com/user-attachments/assets/3445ffd3-771d-4460-a2e3-1f3def45dfc2" />
+<img alt="Screenshot 2025-07-11 at 9 23 08 PM" src="https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3" />
 
 <img width="429"  style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
 

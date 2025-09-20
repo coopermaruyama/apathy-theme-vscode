@@ -25,6 +25,11 @@
         "label": "Apathy",
         "uiTheme": "vs-dark",
         "path": "./themes/Apathy-color-theme.json"
+      },
+      {
+        "label": "Apathetic Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Apathetic-Ocean-color-theme.json"
       }
     ]
   },

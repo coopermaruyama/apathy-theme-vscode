@@ -30,6 +30,11 @@
         "label": "Apathetic Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/Apathetic-Ocean-color-theme.json"
+      },
+      {
+        "label": "Apathy (Experimental)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Apathy-experimental-color-theme.json"
       }
     ]
   },
@@ -37,5 +42,19 @@
     "type": "git",
     "url": "https://github.com/coopermaruyama/apathy-theme-vscode"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "bun run main.ts",
+    "watch": "bun run main.ts --watch"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "tsx": "^4.20.5"
+  }
 }

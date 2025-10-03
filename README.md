@@ -1,19 +1,14 @@
 ![Frame 2](https://github.com/user-attachments/assets/79dd7785-2f71-4eba-8d8e-742668e8156e)
-# Apathy Theme for VS Code
+
+<h1 style="text-align: center;"><center>Apathy</center></h1>
 
 A sophisticated dark color theme ported from the original Atom version, featuring deep purple/black backgrounds with vibrant, neon-like syntax highlighting. Apathy provides excellent contrast and readability while maintaining a visually striking aesthetic.
 
+![Frame 2](https://github.com/user-attachments/assets/650e07c8-20f3-49ce-910f-b5f885453162)
 
-## 📸 Screenshots
+![Frame 2](https://github.com/user-attachments/assets/d13cc1cf-5179-48bc-a249-db045307bfa9)
 
-
-
-<img alt="Screenshot 2025-07-11 at 6 08 22 PM" src="https://github.com/user-attachments/assets/3445ffd3-771d-4460-a2e3-1f3def45dfc2" />
-<img alt="Screenshot 2025-07-11 at 9 23 08 PM" src="https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3" />
-
-<img width="429"  style="display:inline;float:left;" alt="Screenshot 2025-07-10 at 11 23 38 PM" src="https://github.com/user-attachments/assets/b865caac-9304-4715-93be-562d6998dca4" />
-
-<img width="450" style="display:inline;float:left;" alt="Screenshot 2025-07-09 at 12 08 22 PM" src="https://github.com/user-attachments/assets/3c31738e-aec3-450a-9095-fc58f64638ae" />
+![Frame 2](https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3)
 
 
 ## ✨ Features

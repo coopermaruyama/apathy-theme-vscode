@@ -1,10 +1,10 @@
-![Frame 2](https://github.com/user-attachments/assets/79dd7785-2f71-4eba-8d8e-742668e8156e)
+![Frame 2](https://github.com/user-attachments/assets/650e07c8-20f3-49ce-910f-b5f885453162)
 
 <h1 style="text-align: center;"><center>Apathy</center></h1>
 
 A sophisticated dark color theme ported from the original Atom version, featuring deep purple/black backgrounds with vibrant, neon-like syntax highlighting. Apathy provides excellent contrast and readability while maintaining a visually striking aesthetic.
 
-![Frame 2](https://github.com/user-attachments/assets/650e07c8-20f3-49ce-910f-b5f885453162)
+![Frame 2](https://github.com/user-attachments/assets/79dd7785-2f71-4eba-8d8e-742668e8156e)
 
 ![Frame 2](https://github.com/user-attachments/assets/d13cc1cf-5179-48bc-a249-db045307bfa9)
 

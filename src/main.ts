@@ -1,10 +1,8 @@
 import * as bun from 'bun'
 
 
-const base = {
-  a: '#FF6AC1',
-  b: '#FF61A6',
-  c: '#FF528D',
+const colors = {
+  purple: '#8564d8c7',
 }
 const contents = {
     name: "Apathy (Experimental)",

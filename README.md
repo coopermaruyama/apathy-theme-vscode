@@ -11,6 +11,35 @@ A sophisticated dark color theme ported from the original Atom version, featurin
 ![Frame 2](https://github.com/user-attachments/assets/8ce109e2-7823-4a96-a01e-36a3e86cecb3)
 
 
+## ⚙️ Recommended Settings
+
+To get the same look as the screenshots, do the following:
+
+1. Get the Monaspace font [here](https://monaspace.githubnext.com/)
+2. Use the following settings in VS Code:
+
+```json
+{
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Apathetic Ocean",
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'liga'",
+    "editor.fontSize": 11,
+    "editor.fontVariations": "\"wght\" 200, \"wdth\" 100",
+    "editor.fontWeight": "200",
+    "editor.inlineSuggest.fontFamily": "'Monaspace Krypton', monospace",
+    "editor.lineHeight": 1.6,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80
+    ],
+    "workbench.editor.showIcons": false,
+    "workbench.fontAliasing": "antialiased",
+    "workbench.panel.showLabels": false,
+    "workbench.secondarySideBar.showLabels": false,
+}
+```
+
 ## ✨ Features
 
 - **Deep Dark Background**: Rich purple-black background (`#0F0D1A`) that's easy on the eyes
